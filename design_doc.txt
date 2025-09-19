@@ -1,0 +1,19 @@
+Balatro Clone Basic Design
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+CLASSES
+- Card
+    - Joker
+    - PlayingCard
+- Deck
+- Hand
+- JokerBoard
+- UIManager
+- InputHandler
+- Blind
+    - SmallBlind
+    - BigBlind
+    - BossBlind
+- Shop
+- Consumable
+    - TarotCard
+    - PlanetCard
